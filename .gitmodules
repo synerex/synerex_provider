@@ -1,0 +1,6 @@
+[submodule "fleet"]
+	path = fleet
+	url = https://github.com/synerex/provider_fleet
+[submodule "map"]
+	path = map
+	url = https://github.com/synerex/provider_map
