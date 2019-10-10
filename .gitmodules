@@ -6,4 +6,4 @@
 	url = https://github.com/synerex/provider_map
 [submodule "harmovis"]
 	path = harmovis
-	url = https://github.com/synerex/harmovis-provider
+	url = https://github.com/synerex/harmovis-provider.git
