@@ -7,3 +7,6 @@
 [submodule "harmovis"]
 	path = harmovis
 	url = https://github.com/synerex/harmovis-provider.git
+[submodule "fluentd"]
+	path = fluentd
+	url = https://github.com/synerex/provider_fluentd.git
