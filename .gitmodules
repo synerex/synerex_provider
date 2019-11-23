@@ -13,3 +13,9 @@
 [submodule "rpa"]
 	path = rpa
 	url = https://github.com/synerex/provider_rpa.git
+[submodule "file2fleet"]
+	path = file2fleet
+	url = https://kawanu@bitbucket.org/uclabnu/provider-file-to-fleet.git
+[submodule "forward"]
+	path = forward
+	url = https://github.com/synerex/provider_forward.git
