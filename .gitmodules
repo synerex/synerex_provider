@@ -16,3 +16,6 @@
 [submodule "forward"]
 	path = forward
 	url = https://github.com/synerex/provider_forward.git
+[submodule "geography"]
+	path = geography
+	url = https://github.com/synerex/provider_geography.git
