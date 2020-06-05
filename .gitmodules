@@ -19,3 +19,9 @@
 [submodule "geography"]
 	path = geography
 	url = https://github.com/synerex/provider_geography.git
+[submodule "channel_store"]
+	path = channel_store
+	url = https://github.com/synerex/provider_channel_store.git
+[submodule "channel_retrieve"]
+	path = channel_retrieve
+	url = https://github.com/synerex/provider_channel_retrieve.git
