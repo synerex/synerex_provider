@@ -25,3 +25,6 @@
 [submodule "channel_retrieve"]
 	path = channel_retrieve
 	url = https://github.com/synerex/provider_channel_retrieve.git
+[submodule "mbus_sample"]
+	path = mbus_sample
+	url = https://github.com/synerex/provider_mbus_sample.git
